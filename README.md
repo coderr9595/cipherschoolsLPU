@@ -1,6 +1,7 @@
 # cipherschoolsLPU Assignment
 
-start nodejs: npm start /n
+start nodejs: npm start 
+
 start react: npm start
 
 
